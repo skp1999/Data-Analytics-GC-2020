@@ -1,2 +1,3 @@
-This repository contains time series forecasting model to predict electricity consumption in Corporate Buildingd. The repository employs use of models like ARIMA,
-XGBoost and GRU and comparison of their evaulation metric and subsequent use of stacked predictions from ARIMA & GRU to get the final prediction.
+# Data_Analytics_GC
+RP Hall Silver Wining Repository for Data Analytics GC 2020 
+<img src="https://5.imimg.com/data5/PE/PT/MY-4859558/silver-medals-500x500.jpg" width ="30" height = "30">
